@@ -15,6 +15,7 @@ var handlers = {
     this.emit(":responseReady");
   },
   'idIntent': function () {
+    //Not Needed
     var gameID = this.event.request.intent.slots.gameID.value;
 
     //Rolls a ten sided dice, and them chooses a string to use
