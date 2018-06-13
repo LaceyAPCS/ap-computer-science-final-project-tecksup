@@ -1,0 +1,8 @@
+---DESIGN---
+
+Using Javascript's Math.Random the program generates a value from 0-9 or 1-10
+Then the program chooses a response based on the number generated.
+
+Advanced techniques:
+Using Alexa's conversation ability, the program has the ability to be launched and wait for a user to ask a question,
+even if the question is not used, it still acts as a pause for the user to feel better about the program.
